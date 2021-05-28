@@ -1,0 +1,34 @@
+body {
+background-image: url("backgr.jpg");
+background-color: rgb(100, 93, 93); 
+  height: 350px; 
+  font-weight: 100px;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+.headSpend{
+    padding-top: 450px;
+    
+
+}
+ .container{
+     color: black;
+     position: bottom;
+     font-family: cursive;
+     font-size: large;
+ }
+ .glyphicon glyphicon-search {
+     position: right;
+ }
+ #unique-span {
+     color:white;
+     font-family: cursive;
+    border-radius: 15px;
+    background: #ecd92e;
+    padding: 20px;
+    width: 200px;
+    height: 1200px;
+    margin: 3rem auto;
+    border-style: ridge;
+}
